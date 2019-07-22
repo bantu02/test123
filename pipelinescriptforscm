@@ -1,6 +1,5 @@
 node{
-	stage("code"){
+	stage('code'){
 		https://github.com/bantu02/test123.git
 	}
-
 }
